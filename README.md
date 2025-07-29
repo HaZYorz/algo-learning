@@ -1,2 +1,9 @@
-# algo-learning
-使用python语言学习基本算法
+# 算法学习
+
+## 项目描述
+使用python语言学习算法，本项目用于记录算法学习内容以及刷题的题解。
+
+## 参考教材
+hello算法
+
+leetcode
